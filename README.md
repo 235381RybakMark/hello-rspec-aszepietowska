@@ -1,3 +1,5 @@
+https://travis-ci.org/my-rspec/hello-rspec-aszepietowska.svg?branch=master
+
 # Testowanie aplikacji Ruby 2017/2018
 
 #### Prowadzący - [Włodzimierz Bzyl](https://github.com/wbzyl)
