@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.org/my-rspec/hello-rspec-aszepietowska.svg?branch=master)](https://travis-ci.org/my-rspec/hello-rspec-aszepietowska)
 
 # Testowanie aplikacji Ruby 2017/2018
 
