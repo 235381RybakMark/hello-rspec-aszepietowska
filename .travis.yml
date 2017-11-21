@@ -2,4 +2,4 @@ language: ruby
 rvm:
   - 2.4.2
 script:
-  - bundle exec rspec MiniTest      -fd
+  - cd MiniTest; bundle install; bundle exec -fd; cd..
