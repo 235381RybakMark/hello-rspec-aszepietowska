@@ -10,3 +10,4 @@
 ## Spis zadań
 * **[CodeQuizzes](https://github.com/my-rspec/hello-rspec-aszepietowska/tree/master/CodeQuizzes)**
 * **[MiniTest](https://github.com/my-rspec/hello-rspec-aszepietowska/tree/master/MiniTest)**
+* **[SelectionSort](https://github.com/my-rspec/hello-rspec-aszepietowska/tree/master/SelectionSort)**
